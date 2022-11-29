@@ -24,7 +24,15 @@ Her iki geliştiricide takıldıkları yerde olsun, bilgi amaçlı olsun, hata g
 
 ## Oyun resimleri
 
-
+<p float="left">
+  <img src="https://github.com/ErdalNayir/Oyun-Proje-Vize/blob/main/Oyun%20Resimleri/1.JPG" width="600" height="240" style="margin:100px"/>
+  <img src="https://github.com/ErdalNayir/Oyun-Proje-Vize/blob/main/Oyun%20Resimleri/2.JPG" width="600" height="240" style="margin:100px"/> 
+</p>
+</br>
+<p float="left">
+  <img src="https://github.com/ErdalNayir/Oyun-Proje-Vize/blob/main/Oyun%20Resimleri/3.JPG" width="600" height="240" style="margin:100px"/>
+  <img src="https://github.com/ErdalNayir/Oyun-Proje-Vize/blob/main/Oyun%20Resimleri/4.JPG" width="600" height="240" style="margin:100px"/> 
+</p>
 
 
  
