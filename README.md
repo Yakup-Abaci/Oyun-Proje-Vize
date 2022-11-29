@@ -34,6 +34,8 @@ Her iki geliştiricide takıldıkları yerde olsun, bilgi amaçlı olsun, hata g
   <img src="https://github.com/ErdalNayir/Oyun-Proje-Vize/blob/main/Oyun%20Resimleri/4.JPG" width="600" height="240" style="margin:100px"/> 
 </p>
 
+#### Bilinen sorunlar
 
+Oyun itch.io sitesine başarılı bir şekilde yüklenmesine rağmen açılmamaktadır. Oyun linki: https://erdal-nyr.itch.io/falsolu-atis-oyunu
  
 
